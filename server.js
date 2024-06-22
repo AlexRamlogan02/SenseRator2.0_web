@@ -1,5 +1,4 @@
-require("dotenv").config();
-console.log(process.env.MONGO_URI); 
+require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
