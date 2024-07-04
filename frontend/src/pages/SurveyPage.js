@@ -22,13 +22,6 @@ const SurveyPage = () => {
 					</p>
 				</section>
 		
-				<button className="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700">
-					Our Surveys
-				</button>
-		
-				<button className="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700">
-					Our Team
-				</button>
 			</main>
 		</div>
 	);
