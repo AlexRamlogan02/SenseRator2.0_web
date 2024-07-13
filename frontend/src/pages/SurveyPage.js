@@ -15,9 +15,9 @@ const SurveyPage = () => {
 					<h3 className="text-xl font-semibold">Neighborhoods</h3>
 					<p className="mt-2">
 						<ul>
-							<li><a href="#">UCF</a></li>
-							<li><a href="#">Winter Park</a></li>
-							<li><a href="#">Lake Nona</a></li>
+							<li><a href="www.example.com/UCF">UCF</a></li>
+							<li><a href="www.example.com/Winter">Winter Park</a></li>
+							<li><a href="www.example.com/Nona">Lake Nona</a></li>
 						</ul>
 					</p>
 				</section>
